@@ -1,0 +1,38 @@
+unsupervised learning approach, compress data from high dimension to lower dimension, the lower dimension is called principal components (PC)
+why do such a thing?
+thousand of descriptors, take long time to analyse
+without losing important data
+inicial PC core information
+last PC noise of the data
+
+1. Iris data set
+loading in the data set
+
+2. PCA analysis
+
+3. Scree plot
+variance of the data
+
+4. Scores plot
+distribuition of data samples
+
+5. Loading plot
+contribuition of each feature (variables/factors) for the data samples
+
+Hide AntiHCV and Lignin for HIV sensors
+
+Compare specific HIV and HCV without PBS ok
+Compare HIV all electrodes without PBS specific x non specific ok
+Compare HCV all electrodes without PBS specific x non specific ok
+testar medida 2 para HIV
+Identificar e retirar do grafico o elemento/eletrodo que esta com a maior gap/ analisar retirar PBS
+
+PCA Sem PBS Eletrodos HCV - PC2 contribute for separating the system
+
+matriz de imobilizacao
+lignina ela seria a propria matriz
+ela faz parte dos outros eletrodos
+
+anticorpo e antigeno
+
+antip17
